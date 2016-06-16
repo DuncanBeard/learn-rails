@@ -11,7 +11,6 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'byebug'
-gem 'web-console', '~> 2.0'
 gem 'spring'
 
 # Learn-Rails recommended
@@ -23,4 +22,5 @@ group :development do
   gem 'better_errors'
   gem 'quiet_assets'
   gem 'rails_layout'
+  gem 'web-console', '~> 2.0'
 end
